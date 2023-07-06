@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "pygame"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none"
+    }
+}
